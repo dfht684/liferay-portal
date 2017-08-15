@@ -1,5 +1,7 @@
 files:
   - source: /portal-impl/src/content/Language.properties
+    ignore:
+      - /portal-impl/src/content/Language_*.properties
     translation: >-
       /portal-impl/src/content/%file_name%_%locale_with_underscore%.%file_extension%
     languages_mapping:
