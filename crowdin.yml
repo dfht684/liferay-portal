@@ -2,3 +2,16 @@ files:
   - source: /portal-impl/src/content/Language.properties
     translation: >-
       /portal-impl/src/content/%file_name%_%locale_with_underscore%.%file_extension%
+    languages_mapping:
+      locale_with_underscore:
+        hi: hi_IN
+        en: en_GB
+        nl-BE: nl_BE
+        pt-PT: pt_PT
+        pt-BR: pt_BR
+        sr: sr_RS
+        sr-CS: sr_RS_latin
+        zh-CN: zh_CN
+        zh-TW: zh_TW
+  - source: /portal-impl/src/content/Language.properties
+    translation: /portal-impl/src/content/%file_name%_%two_letters_code%.%file_extension%
