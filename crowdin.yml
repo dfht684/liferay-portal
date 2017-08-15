@@ -1,3 +1,4 @@
 files:
   - source: /portal-impl/src/content/Language.properties
-    translation: /portal-impl/src/content/Language_%locale_with_underscore%.properties
+    translation: >-
+      /portal-impl/src/content/%original_file_name%_%locale_with_underscore%.%file_extension%
