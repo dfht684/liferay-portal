@@ -1,3 +1,3 @@
 files:
-  - source: /portal-impl/src/content/
+  - source: /portal-impl/src/content/Language.properties
     translation: /portal-impl/src/content/Language_%locale_with_underscore%.properties
