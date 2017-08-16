@@ -15,5 +15,3 @@ files:
         sr-CS: sr_RS_latin
         zh-CN: zh_CN
         zh-TW: zh_TW
-  - source: /portal-impl/src/content/Language.properties
-    translation: /portal-impl/src/content/%file_name%_%two_letters_code%.%file_extension%
