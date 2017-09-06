@@ -3,5 +3,5 @@ files:
     translation: /%original_path%/%file_name%_%two_letters_code%.%file_extension%
     languages_mapping:
       locale_with_underscore:
-        zh-TW: zh_TW
-        zh-CN: zh_CN
+        zh-TW: _zh_TW
+        zh-CN: _zh_CN
