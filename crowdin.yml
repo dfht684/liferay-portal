@@ -1,3 +1,7 @@
 files:
   - source: /portal-impl/src/content/Language.properties
     translation: /%original_path%/%file_name%_%two_letters_code%.%file_extension%
+    languages_mapping:
+      two_letters_code:
+        zh-CN: zh_CN
+        zh-TW: zh_TW
