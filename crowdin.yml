@@ -1,17 +1,12 @@
 files:
-  - source: /portal-impl/src/content/Language.properties
+  - source: /**/content/Language.properties
     translation: /%original_path%/%file_name%_%two_letters_code%.%file_extension%
     languages_mapping:
       two_letters_code:
-        zh-CN: zh_CN
-        zh-TW: zh_TW
-        hi: hi_IN
-        sr: sr_RS
-        sr-CS: sr_RS_latin
-        pt-PT: pt_PT
-        pt-BR: pt_BR
-        he: he
-        en: en
-        id: id
-        nl: nl
-        fr: fr
+        zh-CN: locale_with_underscore
+        zh-TW: locale_with_underscore
+        hi: locale_with_underscore
+        sr: locale_with_underscore
+        sr-CS: locale_with_underscore
+        pt-PT: locale_with_underscore
+        pt-BR: locale_with_underscore
